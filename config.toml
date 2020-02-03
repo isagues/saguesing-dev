@@ -1,5 +1,5 @@
 baseurl = "https://isagues.github.io/"
-title = "saguesing"
+title = "Saguesing"
 theme = "hugo-coder"
 languagecode = "es"
 defaultcontentlanguage = "es"
