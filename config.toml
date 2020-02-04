@@ -43,14 +43,14 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/nacho_sag/"
+    url = "https://twitter.com/nachosag06"
 
 # Menu links
 [[menu.main]]
     name = "Blog"
     weight = 1
     url  = "/posts/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "./about"
+# [[menu.main]]
+#     name = "About"
+#     weight = 2
+#     url = "./about"
